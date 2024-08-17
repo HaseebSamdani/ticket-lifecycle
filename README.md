@@ -27,3 +27,5 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 https://docs.google.com/document/d/1KVQY_7IA1LBjy4LgJy85JMygQyL3IIBT/edit?usp=sharing&ouid=113230259462418910579&rtpof=true&sd=true
 
 ![image](https://github.com/user-attachments/assets/13ef4339-6e3e-4bc0-86dc-be71ba3233e9)
+![image](https://github.com/user-attachments/assets/c59fb4a3-dacb-4166-ac47-847ce58f698c)
+
